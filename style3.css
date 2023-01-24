@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(Images/gamevideoimg.jpg);
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  margin-left: 130px;
+  /* gap: 70px; */
+  row-gap: 30px;
+  column-gap: 100px;
+}

@@ -1,0 +1,9 @@
+body {
+  background-image: url(Images/backgroundimg.jpg);
+  background-size: cover;
+}
+
+video {
+  margin-left: 500px;
+  margin-top: 250px;
+}
